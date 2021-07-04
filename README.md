@@ -24,4 +24,7 @@ Include popular icons in your React project.
 Converts standard HTML into it's React equivalent
 <br>
 
+### [**react-toast-notifications**](https://jossmac.github.io/react-toast-notifications/)
+Lets you quckly add toast notifications into you react app
+
 ## **Backend:**
