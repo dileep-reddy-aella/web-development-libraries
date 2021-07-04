@@ -1,4 +1,4 @@
-# **Libraries for web development**
+# <div align="center"> **Libraries for web development** <div/>
 ## **Front-end:**
 <br>
 
