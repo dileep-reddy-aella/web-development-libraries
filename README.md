@@ -27,6 +27,11 @@ Converts standard HTML into it's React equivalent.
 #### [**react-toast-notifications**](https://jossmac.github.io/react-toast-notifications/)
 Lets you quckly add toast notifications into you react app.
 <br>
+
+#### [**react-scroll**](https://github.com/fisshy/react-scroll/blob/master/README.md)
+Add Smooth scrolling to the site
+<br>
+
 <br>
 
 ### [**Vuejs**]()
