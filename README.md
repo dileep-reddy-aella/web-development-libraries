@@ -50,4 +50,7 @@ Add a date picker component. It has many different props to customize it accordi
 To validate req params from user
 
 #### [nodemon](https://github.com/remy/nodemon#nodemon)
-To run a live local server and automatically restart everytime we make a change
+To run a live local server and automatically restart everytime we make a change.
+
+#### [concurrently](https://github.com/kimmobrunfeldt/concurrently)
+Run multiple commands concurrently. Ex: Run a React app and express server in local simultaneously while development.
