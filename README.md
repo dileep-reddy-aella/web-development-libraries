@@ -48,3 +48,6 @@ Add a date picker component. It has many different props to customize it accordi
 
 #### [express-validator](https://express-validator.github.io/docs/)
 To validate req params from user
+
+#### [nodemon](https://github.com/remy/nodemon#nodemon)
+To run a live local server and automatically restart everytime we make a change
