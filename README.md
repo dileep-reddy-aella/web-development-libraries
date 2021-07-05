@@ -61,3 +61,6 @@ Run multiple commands concurrently. Ex: Run a React app and express server in lo
 #### [request](https://github.com/request/request) (deprecated!)
 HTTP client to make requests to third-party api's.
 <br>
+
+#### [config](https://github.com/lorenwest/node-config#configure-your-nodejs-applications)
+Add Global variable to express to use them anywhere in the app.
