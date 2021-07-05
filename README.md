@@ -64,3 +64,8 @@ HTTP client to make requests to third-party api's.
 
 #### [config](https://github.com/lorenwest/node-config#configure-your-nodejs-applications)
 Add Global variable to express to use them anywhere in the app.
+<br>
+
+#### [bcrypt](https://github.com/kelektiv/node.bcrypt.js#nodebcryptjs)
+Encrypt user data.
+<br>
